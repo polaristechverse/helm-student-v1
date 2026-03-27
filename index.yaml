@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   studentapp:
   - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2026-03-27T18:41:31.6937489+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 59c592043876ba62b054102b242e046dda5546058eef389da392f165b57786b7
+    name: studentapp
+    type: application
+    urls:
+    - studentapp-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
     appVersion: 1.16.1
-    created: "2026-03-27T18:25:38.8381693+05:30"
+    created: "2026-03-27T18:41:31.6932522+05:30"
     description: A Helm chart for Kubernetes
     digest: 98be895d54d1e24e2dfd8d26015a75876d3c38ddc45945e453e241e9a084c82e
     name: studentapp
@@ -11,4 +21,4 @@ entries:
     urls:
     - studentapp-0.1.3.tgz
     version: 0.1.3
-generated: "2026-03-27T18:25:38.8361829+05:30"
+generated: "2026-03-27T18:41:31.6922361+05:30"
